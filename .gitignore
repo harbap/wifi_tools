@@ -1,0 +1,12 @@
+build/*
+*.0
+*.a
+*.so
+*.d
+.vscode
+*.BAK
+*.bak
+*.orig
+*.rej
+*.out
+
