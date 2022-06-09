@@ -1,0 +1,7 @@
+version.lo: version.c \
+ /opt/arm-linux-gcc_7.3.1/arm-linux-gnueabihf/libc/usr/include/stdc-predef.h \
+ ../include/netlink/version.h
+
+/opt/arm-linux-gcc_7.3.1/arm-linux-gnueabihf/libc/usr/include/stdc-predef.h:
+
+../include/netlink/version.h:
